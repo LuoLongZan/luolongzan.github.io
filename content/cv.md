@@ -1,11 +1,13 @@
 ## Education
 
 **Peking University**, B.S. student, School of Electronic Engineering and Computer Science, *2022.09 - Present*
-- Research advisor: Prof. [Shanghang Zhang](https://www.shanghangzhang.com/)
-- Research interests: Robotics, 3D computer vision, embodied intelligence, and generalizable object perception and manipulation
+- Research advisors: Prof. [Bin Cui](https://cuibinpku.github.io/cuibin_cn.html) and Prof. [Xupeng Miao](https://hsword.github.io/)
+- Research interests: Machine learning systems, with a focus on world model system acceleration
 
 ## Publications
 
+- **PolySplat: Workload-Regime-Aware Rasterization for 3D Gaussian Splatting**, under review at NeurIPS 2026. (first author)
+- **DARTS: Distribution-Aware Active Rollout Trajectory Shaping for Accelerating LLM Reinforcement Learning**, ICML 2026. (co-first author)
 - **Lift3D Foundation Policy: Lifting 2D Large-Scale Pretrained Models for Robust 3D Robotic Manipulation**, CVPR 2025.
 - **GarmentLab: A Unified Simulation and Benchmark for Garment Manipulation**, NeurIPS 2024.
 
@@ -13,7 +15,7 @@
 
 **Peking University (PKU)**, *2022.09 - Present*
 - Undergraduate student at the School of EECS.
-- Research advised by Prof. Shanghang Zhang.
+- Research advised by Prof. Bin Cui and Prof. Xupeng Miao.
 
 ## Services
 

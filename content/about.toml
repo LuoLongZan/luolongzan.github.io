@@ -3,10 +3,8 @@ title = "About"
 
 [profile]
 research_interests = [
-  "Robotics",
-  "3D Computer Vision",
-  "Embodied Intelligence",
-  "Generalizable Object Perception and Manipulation"
+  "Machine Learning Systems",
+  "World Model System Acceleration"
 ]
 
 [[sections]]

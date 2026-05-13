@@ -1,6 +1,6 @@
-I am a senior student at the [School of Electronic Engineering and Computer Science (EECS)](https://eecs.pku.edu.cn/), [Peking University](https://english.pku.edu.cn/). I was honored to be advised by Prof. [Shanghang Zhang](https://www.shanghangzhang.com/).
+I am a senior student at the [School of Electronic Engineering and Computer Science (EECS)](https://eecs.pku.edu.cn/), [Peking University](https://english.pku.edu.cn/). I am honored to be advised by Prof. [Bin Cui](https://cuibinpku.github.io/cuibin_cn.html) and Prof. [Xupeng Miao](https://hsword.github.io/).
 
-My research interest is broadly in **Robotics** and **3D Computer Vision**, with particular interests in generalizable object perception, understanding, and manipulation. My research objective is to build intelligent agents with robust and generalizable abilities to perceive and interact with complex real-world environments.
+My research interest is broadly in **Machine Learning Systems**, with a particular focus on **world model system acceleration**. My research objective is to build efficient and scalable systems that unlock the next generation of large-scale AI workloads.
 
 Be yourself, and be the best version of yourself.
 

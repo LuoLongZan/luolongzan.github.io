@@ -16,7 +16,7 @@ location = "北京，中国"
 location_url = "https://maps.google.com/?q=Peking+University"
 location_details = [
   "北京大学",
-  "电子学院与计算机学院"
+  "信息科学技术学院"
 ]
 github = "https://github.com/LuoLongZan/"
 
