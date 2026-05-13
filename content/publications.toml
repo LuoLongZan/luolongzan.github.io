@@ -1,0 +1,4 @@
+type = "publication"
+title = "Publications"
+description = "A collection of my research work in robotics, 3D computer vision, and embodied intelligence."
+source = "publications.bib"

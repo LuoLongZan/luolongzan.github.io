@@ -1,0 +1,23 @@
+type = "card"
+title = "服务"
+description = "学术服务与学生工作。"
+
+[[items]]
+title = "审稿人"
+subtitle = "NeurIPS, CVPR"
+content = "为人工智能与计算机视觉领域重要会议担任审稿人。"
+
+[[items]]
+title = "党支部书记"
+subtitle = "北京大学电子学院与计算机学院本科生第五党支部"
+content = "参与并组织学院学生工作。"
+
+[[items]]
+title = "组长"
+subtitle = "第45期学生党性教育读书班"
+content = "负责学生读书班小组组织工作。"
+
+[[items]]
+title = "朋辈导师"
+subtitle = "北京大学学生资助中心燕园启航项目"
+content = "参与学校学生支持与朋辈辅导工作。"

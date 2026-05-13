@@ -1,0 +1,23 @@
+type = "card"
+title = "Services"
+description = "Professional services and community involvement."
+
+[[items]]
+title = "Reviewer"
+subtitle = "NeurIPS, CVPR"
+content = "Served as a reviewer for major AI and computer vision conferences."
+
+[[items]]
+title = "Secretary"
+subtitle = "The 5th Undergraduate Party Branch, School of EECS, Peking University"
+content = "Served in student community work at the School of EECS."
+
+[[items]]
+title = "Team Leader"
+subtitle = "The 45th Student Party Spirit Education Reading Class"
+content = "Led a student reading and education group."
+
+[[items]]
+title = "Peer Mentor"
+subtitle = "\"Yanyuan Qihang\" Program, PKU Student Financial Aid Center"
+content = "Mentored peers through a university student support program."

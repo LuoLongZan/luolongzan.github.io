@@ -1,0 +1,15 @@
+type = "card"
+title = "Teaching"
+description = "Courses I have taught or assisted with."
+
+[[items]]
+title = "Introduction to Computing A"
+subtitle = "Teaching Assistant"
+content = "Served as a teaching assistant for an introductory computing course."
+tags = ["Undergraduate", "Computer Science"]
+
+[[items]]
+title = "Introduction to Computing B"
+subtitle = "Instructor, PKU Student Financial Aid Center"
+content = "Taught introductory computing through the PKU Student Financial Aid Center."
+tags = ["Undergraduate", "Computer Science"]

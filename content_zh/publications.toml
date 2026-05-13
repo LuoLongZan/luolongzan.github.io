@@ -1,0 +1,4 @@
+type = "publication"
+title = "论文"
+description = "机器人学、三维计算机视觉与具身智能方向的研究工作。"
+source = "publications.bib"

@@ -1,0 +1,45 @@
+type = "card"
+title = "Awards"
+description = "Honors and awards I have received."
+
+[[items]]
+title = "National Scholarship"
+subtitle = "Peking University"
+date = "2025"
+content = "Received the National Scholarship for the third time."
+
+[[items]]
+title = "SenseTime Scholarship"
+subtitle = "SenseTime"
+date = "2025"
+content = "Awarded for academic and research excellence."
+
+[[items]]
+title = "Beijing Municipal Triple-A Student"
+subtitle = "Beijing"
+date = "2025"
+content = "The only recipient in the college this year."
+
+[[items]]
+title = "National Scholarship"
+subtitle = "Peking University"
+date = "2024"
+content = "Received the National Scholarship for the second time."
+
+[[items]]
+title = "Pacemaker to Merit Student"
+subtitle = "Peking University"
+date = "2024"
+content = "Selected as Pacemaker to Merit Student."
+
+[[items]]
+title = "National Scholarship"
+subtitle = "Peking University"
+date = "2023"
+content = "Received the National Scholarship for the first time."
+
+[[items]]
+title = "Merit Student"
+subtitle = "Peking University"
+date = "2023"
+content = "Selected as Merit Student."

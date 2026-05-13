@@ -1,0 +1,74 @@
+[site]
+title = "Longzan Luo | 罗珑赞"
+description = "Personal website of Longzan Luo, an undergraduate student at Peking University working on robotics and 3D computer vision."
+favicon = "/images/icon.png"
+last_updated = "May 13, 2026"
+
+[author]
+name = "Longzan Luo"
+title = "Undergraduate Student"
+institution = "Peking University"
+avatar = "/images/llz.png"
+
+[social]
+email = "2200013198@stu.pku.edu.cn"
+location = "Beijing, China"
+location_url = "https://maps.google.com/?q=Peking+University"
+location_details = [
+  "School of Electronic Engineering and Computer Science,",
+  "Peking University, Beijing, China"
+]
+github = "https://github.com/LuoLongZan/"
+
+[features]
+enable_likes = true
+enable_one_page_mode = false
+
+[i18n]
+enabled = true
+locales = ["zh", "en"]
+default_locale = "en"
+mode = "auto"
+fixed_locale = "en"
+persist = true
+switcher = true
+
+[i18n.labels]
+zh = "中文"
+en = "English"
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Publications"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "Teaching"
+type = "page"
+target = "teaching"
+href = "/teaching"
+
+[[navigation]]
+title = "Awards"
+type = "page"
+target = "awards"
+href = "/awards"
+
+[[navigation]]
+title = "Services"
+type = "page"
+target = "services"
+href = "/services"
+
+[[navigation]]
+title = "CV"
+type = "page"
+target = "cv"
+href = "/cv"

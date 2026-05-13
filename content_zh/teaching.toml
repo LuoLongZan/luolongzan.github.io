@@ -1,0 +1,15 @@
+type = "card"
+title = "教学"
+description = "助教与授课经历。"
+
+[[items]]
+title = "计算概论 A"
+subtitle = "助教"
+content = "担任本科生计算机基础课程助教。"
+tags = ["本科生", "计算机"]
+
+[[items]]
+title = "计算概论 B"
+subtitle = "讲师，北京大学学生资助中心"
+content = "通过北京大学学生资助中心参与计算机基础课程教学。"
+tags = ["本科生", "计算机"]

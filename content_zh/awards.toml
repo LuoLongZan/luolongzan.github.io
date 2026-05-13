@@ -1,0 +1,45 @@
+type = "card"
+title = "奖项"
+description = "部分荣誉与奖励。"
+
+[[items]]
+title = "国家奖学金"
+subtitle = "北京大学"
+date = "2025"
+content = "第三次获得国家奖学金。"
+
+[[items]]
+title = "商汤奖学金"
+subtitle = "商汤科技"
+date = "2025"
+content = "因学业与科研表现获得奖励。"
+
+[[items]]
+title = "北京市三好学生"
+subtitle = "北京市"
+date = "2025"
+content = "学院本年度唯一获评者。"
+
+[[items]]
+title = "国家奖学金"
+subtitle = "北京大学"
+date = "2024"
+content = "第二次获得国家奖学金。"
+
+[[items]]
+title = "三好学生标兵"
+subtitle = "北京大学"
+date = "2024"
+content = "获评三好学生标兵。"
+
+[[items]]
+title = "国家奖学金"
+subtitle = "北京大学"
+date = "2023"
+content = "第一次获得国家奖学金。"
+
+[[items]]
+title = "三好学生"
+subtitle = "北京大学"
+date = "2023"
+content = "获评三好学生。"

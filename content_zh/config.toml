@@ -1,0 +1,57 @@
+[site]
+title = "罗珑赞"
+description = "罗珑赞的个人主页。"
+favicon = "/images/icon.png"
+last_updated = "2026年5月13日"
+
+[author]
+name = "罗珑赞"
+title = "本科生"
+institution = "北京大学"
+avatar = "/images/llz.png"
+
+[social]
+email = "2200013198@stu.pku.edu.cn"
+location = "北京，中国"
+location_url = "https://maps.google.com/?q=Peking+University"
+location_details = [
+  "北京大学",
+  "电子学院与计算机学院"
+]
+github = "https://github.com/LuoLongZan/"
+
+[[navigation]]
+title = "关于我"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "论文"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "教学"
+type = "page"
+target = "teaching"
+href = "/teaching"
+
+[[navigation]]
+title = "奖项"
+type = "page"
+target = "awards"
+href = "/awards"
+
+[[navigation]]
+title = "服务"
+type = "page"
+target = "services"
+href = "/services"
+
+[[navigation]]
+title = "简历"
+type = "page"
+target = "cv"
+href = "/cv"
