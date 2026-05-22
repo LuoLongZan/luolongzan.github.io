@@ -12,6 +12,19 @@ export async function generateMetadata(): Promise<Metadata> {
   const config = getConfig();
   const runtimeI18n = getRuntimeI18nConfig(config.i18n);
   const openGraphLocale = runtimeI18n.defaultLocale === 'zh' ? 'zh_CN' : 'en_US';
+  const keywords = Array.from(new Set([
+    config.author.name,
+    'Longzan Luo',
+    'LuoLongZan',
+    'luolongzan',
+    '罗珑赞',
+    '罗珑赞 北京大学',
+    'Longzan Luo Peking University',
+    'Machine Learning Systems',
+    'World Model System Acceleration',
+    'Research',
+    config.author.institution,
+  ]));
 
   return {
     title: {
@@ -19,7 +32,7 @@ export async function generateMetadata(): Promise<Metadata> {
       template: `%s | ${config.site.title}`,
     },
     description: config.site.description,
-    keywords: [config.author.name, 'Machine Learning Systems', 'World Model System Acceleration', 'Research', config.author.institution],
+    keywords,
     authors: [{ name: config.author.name }],
     creator: config.author.name,
     publisher: config.author.name,
